@@ -9,6 +9,10 @@ export const authOptions: NextAuthOptions = {
   session: {
     strategy: "jwt",
   },
+  pages: {
+    signIn: "/login",
+    newUser: "/signUp",
+  },
   adapter: PrismaAdapter(prisma) as any,
   providers: [
     GithubProvider({
