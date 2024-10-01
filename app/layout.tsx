@@ -1,4 +1,3 @@
-import Navbar from "@/components/navbar";
 import { NextAuthProvider } from "@/components/wrapper/next-auth-provider";
 import { ThemeProvider } from "@/components/wrapper/theme-provider";
 import { cn } from "@/lib/utils";
@@ -29,7 +28,6 @@ export default function RootLayout({
       <body className={cn(inter.className, "flex flex-col h-[100dvh] ")}>
         <NextAuthProvider>
           <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
-            <Navbar />
             <Toaster />
 
             <div className="h-full w-full ">{children}</div>
