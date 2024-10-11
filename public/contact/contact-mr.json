@@ -1,0 +1,26 @@
+{
+  "title": "संपर्क साधण्यास संकोच करू नका",
+  "greeting": "नमस्कार उद्योजकांनो",
+  "callToAction": "आयडिया विषयी बोलूया",
+  "form": {
+    "firstName": "पहिला नाव",
+    "lastName": "आडनाव",
+    "phoneNumber": "फोन नंबर",
+    "phoneExample": "उदा. साहिल",
+    "lastNameExample": "उदा. बार्ज",
+    "phoneExampleFormat": "+91-9373445956",
+    "subject": "विषय",
+    "yourEmail": "तुमचा ईमेल",
+    "subjectExample": "उदा. विषयाबद्दल",
+    "emailExample": "उदा. barge@gmail.com",
+    "description": "वर्णन",
+    "descriptionExample": "उदा. प्रिय नितीन दादा",
+    "founderEmail": "founder@godhamgroup.com",
+    "continue": "संपूर्ण करा"
+  },
+  "address": {
+    "title": "पत्ता",
+    "content": "ऑफिस नंबर: 213, तिसरा मजला, NV व्यवसाय केंद्र, सोमाताणे फाटा, तळेगाव दाभाडे, पुणे, महाराष्ट्र 410507"
+  },
+  "meeting": "चला ऑफिसमध्ये भेटू"
+}

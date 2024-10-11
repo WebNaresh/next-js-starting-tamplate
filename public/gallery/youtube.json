@@ -1,0 +1,20 @@
+{
+  "fortConservation": {
+    "youtubeUrl": "https://www.youtube.com/watch?v=example1"
+  },
+  "communityLove": {
+    "youtubeUrl": "https://www.youtube.com/watch?v=example2"
+  },
+  "visionary": {
+    "youtubeUrl": "https://www.youtube.com/watch?v=example3"
+  },
+  "leadershipTalk": {
+    "youtubeUrl": "https://www.youtube.com/watch?v=example4"
+  },
+  "awareness": {
+    "youtubeUrl": "https://www.youtube.com/watch?v=example5"
+  },
+  "honoringLegacy": {
+    "youtubeUrl": "https://www.youtube.com/watch?v=example6"
+  }
+}

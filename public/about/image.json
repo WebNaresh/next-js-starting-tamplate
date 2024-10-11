@@ -1,0 +1,47 @@
+{
+  "images": {
+    "whoIsNitin": "images/home/who-is-nitin-dada.png",
+    "earlyLife": ["images/home/early-life/image-1.png"],
+    "professionalJourney": [
+      "images/home/professional/image-1.png",
+      "images/home/professional/image-2.png",
+      "images/home/professional/image-3.png"
+    ],
+    "familyLife": [
+      "images/home/family/image-1.png",
+      "images/home/family/image-2.png",
+      "images/home/family/image-3.png",
+      "images/home/family/image-4.png"
+    ],
+    "entrepreneurshipLeadership": [
+      "images/home/entrepreneurship/image-1.png",
+      "images/home/entrepreneurship/image-2.png",
+      "images/home/entrepreneurship/image-3.png"
+    ],
+    "socialContributions": [
+      "images/home/social/image-1.png",
+      "images/home/social/image-2.png",
+      "images/home/social/image-3.png",
+      "images/home/social/image-4.png"
+    ],
+    "spiritualLife": [
+      "images/home/spiritual/image-1.png",
+      "images/home/spiritual/image-2.png",
+      "images/home/spiritual/image-3.png",
+      "images/home/spiritual/image-4.png",
+      "images/home/spiritual/image-5.png"
+    ],
+    "awards": [
+      "images/home/awards/image-1.png",
+      "images/home/awards/image-2.png",
+      "images/home/awards/image-3.png",
+      "images/home/awards/image-4.png"
+    ],
+    "legacy": [
+      "images/home/legacy/image-1.png",
+      "images/home/legacy/image-2.png",
+      "images/home/legacy/image-3.png",
+      "images/home/legacy/image-4.png"
+    ]
+  }
+}

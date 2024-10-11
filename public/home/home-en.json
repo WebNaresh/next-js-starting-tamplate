@@ -1,0 +1,65 @@
+{
+  "name": "Nitin Dada Ghotkule",
+  "title": "Empowering Rural Development & Entrepreneurship",
+  "navigation": {
+    "explore": "Explore",
+    "contactUs": "Contact Us"
+  },
+  "bio": {
+    "introduction": "Who is Nitin (Dada) Ghotkule?",
+    "roles": [
+      {
+        "title": "Founder",
+        "organization": "Godham Group",
+        "description": "A visionary leader, committed to transforming rural communities through sustainable development and entrepreneurial initiatives. With a clear vision to empower 1,000 entrepreneurs, create 5,000 jobs, establish 51 successful businesses, and plant 1 crore trees, Nitin Dada has made a significant impact across various sectors like water conservation, education, health, and infrastructure improvement."
+      },
+      {
+        "title": "Founder",
+        "organization": "GODHAM ECO Village (Adhale BK.)",
+        "description": "Godham Eco Village is not just about me or you, it’s about us, together. It’s our dream. A dream of having our childhood village developed as a modern self-sustaining village. Life in a city is changing fast. Our lives have become stressful and we’re competing against ourselves for survival. That’s not how living is meant to be. We want to make this a model village. A village that’s situated in beautiful natural surroundings, offering you positive energy, spiritual guidance, agricultural opportunities, and much more."
+      },
+      {
+        "title": "President",
+        "organization": "Rotary Club of Maval",
+        "description": "Nitin Dada is the President of the Rotary Club of Maval, where he actively leads impactful projects focused on community welfare and social upliftment. His leadership in both rural development and Rotary activities demonstrates his dedication to fostering positive change and improving the lives of countless individuals."
+      }
+    ]
+  },
+  "vision": {
+    "title": "A Vision for Empowerment",
+    "goals": {
+      "treesPlanted": "1 crore",
+      "entrepreneursEmpowered": 1000,
+      "jobsGenerated": 5000
+    },
+    "mission": "To uplift rural communities by driving forward innovative projects in development, entrepreneurship, and community welfare."
+  },
+  "milestones": {
+    "success": [
+      "Empowered over 300 local entrepreneurs through skill development and mentorship programs.",
+      "Created sustainable water management solutions benefiting more than 5,000 villagers.",
+      "Improved educational infrastructure in rural schools, impacting hundreds of children.",
+      "Established successful businesses that fuel local economic growth and community development."
+    ]
+  },
+  "testimonials": {
+    "header": "Testimonials & Community Impact",
+    "quotes": [
+      {
+        "text": "Thanks to Nitin Dada’s leadership, our village finally has reliable access to clean drinking water. Our lives have improved significantly, and our children’s future is brighter.",
+        "author": "Local Villager",
+        "location": "Ghodewadi"
+      },
+      {
+        "text": "Thanks to Nitin Dada’s leadership, our village finally has reliable access to clean drinking water. Our lives have improved significantly, and our children’s future is brighter.",
+        "author": "Local Villager",
+        "location": "Ghodewadi"
+      },
+      {
+        "text": "Thanks to Nitin Dada’s leadership, our village finally has reliable access to clean drinking water. Our lives have improved significantly, and our children’s future is brighter.",
+        "author": "Local Villager",
+        "location": "Ghodewadi"
+      }
+    ]
+  }
+}
